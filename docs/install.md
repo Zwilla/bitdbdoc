@@ -16,7 +16,7 @@ In this section, we will take a look at how you can run your own BitDB node.
 First you need the following:
 
 1. **Bitcoin:** You must have a Bitcoin running on your computer.
-2. **MongoDB:** You must have set up a MongoDB database on your computer.
+2. **MongoDB:** You must have set up a MongoDB database on your computer. [learn how](https://docs.mongodb.com/guides/server/install/)
 
 ### 1. Bitcoin
 
@@ -64,7 +64,7 @@ rpcworkqueue=512
 
 ### 2. MongoDB
 
-BitDB is powered by MongoDB, so you need to have installed MongoDB already.
+BitDB is powered by MongoDB, so you need to have installed MongoDB already. [learn how](https://docs.mongodb.com/guides/server/install/)
 
 ---
 
